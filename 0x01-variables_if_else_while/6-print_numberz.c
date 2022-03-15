@@ -1,4 +1,3 @@
-#include <stu
 #include <stdio.h>
 /**
  * main - Entry point
