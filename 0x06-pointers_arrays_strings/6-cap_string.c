@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * separators - checks and ensure that all string is capitalized
  * @c: character to be checked
