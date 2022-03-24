@@ -57,5 +57,6 @@ s[count] += upper;
 }
 count++;
 }
+
 return (s);
 }
